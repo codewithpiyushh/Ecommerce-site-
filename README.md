@@ -11,10 +11,6 @@ PikNik is a stylish and user-friendly online shopping platform that offers a wid
 The PikNik is built using Go, following a modular architecture for scalability. Core functionality resides in the handlers package, handling user sessions, authentication, and template rendering. Routes like IndexHandler, MenHandler, and CartHandler render HTML templates, while JWTs secure user authentication and session management. The project uses MySQL for user credential storage and bcrypt for password hashing. The main.go file initializes the server, sets up the database connection, and defines routes with CORS and JWT middleware for secure interactions.
 
 
-## **Demo Video**  
-
-https://github.com/user-attachments/assets/d4fce425-3ee6-4276-8ec2-95c20721268a
-
 ## **Tech stack**
 - **Backend**: GO Lang
 - **Frontend**: HTML, CSS
