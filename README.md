@@ -54,11 +54,10 @@ C:.
   
 ## **User Interaction**
 
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/2abd8d55-6c99-4921-87b9-0b1ce8eaef41" width="20%" />
-    <img src="https://github.com/user-attachments/assets/830480ae-87cf-4a1c-8a3c-641227d08844" width="20%" />
-    <img src="https://github.com/user-attachments/assets/d7e63b42-30c7-4351-861a-8f367a393898" width="20%" />
-</div>
+![WhatsApp Image 2025-05-12 at 16 47 25_f243ce38](https://github.com/user-attachments/assets/6bd59f5d-0c70-44c0-bbc4-35d6a669f36e)
+![WhatsApp Image 2025-05-12 at 16 46 31_e1a54823](https://github.com/user-attachments/assets/9ef6e28c-7b93-4253-8d1f-eb01a22c680d)
+![WhatsApp Image 2025-05-12 at 16 45 47_eb3444bd](https://github.com/user-attachments/assets/e15c0543-c77e-4694-835b-c7869f7b19ae)
+
 
 
 ## **Conclusion**
